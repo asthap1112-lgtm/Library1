@@ -1,0 +1,4 @@
+PORT=5000
+MONGO_URI=mongodb+srv://asthap1112_db_user:<db_password>@books.rlhhkkp.mongodb.net/
+JWT_SECRET=supersecretkey
+Jwt_EXPIRES_IN=1d
